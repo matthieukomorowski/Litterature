@@ -14,6 +14,7 @@ A place to store relevant research papers and resources
 
 - Provable Benefits of Actor-Critic Methods for Offline Reinforcement Learning [2021] https://arxiv.org/abs/2108.08812
 - Deep reinforcement learning from human preferences [2017] https://arxiv.org/abs/1706.03741
+- High Confidence Policy Improvement [2015] https://proceedings.mlr.press/v37/thomas15.html 
 
 ## State representation
 
@@ -23,6 +24,7 @@ A place to store relevant research papers and resources
 
 - Reliable Off-Policy Learning for Dosage Combinations [2023] https://arxiv.org/abs/2305.19742
 - Universal Off-Policy Evaluation [2021] https://arxiv.org/abs/2104.12820
+- HCOPE [2015] https://ojs.aaai.org/index.php/AAAI/article/view/9541
 
 # SIMULATORS
 
