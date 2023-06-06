@@ -1,6 +1,7 @@
 # Litterature
 A place to store relevant research papers and resources
-Matthieu Komorowski
+
+[author: Matthieu Komorowski]
 
 # GENERIC AI/ML IN HEALTHCARE
 
