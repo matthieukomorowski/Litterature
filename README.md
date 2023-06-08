@@ -34,6 +34,7 @@ A place to store relevant research papers and resources
 # SAFETY
 
 - Preventing undesirable behavior of intelligent machines [2019] https://www.science.org/doi/10.1126/science.aag3311
+- Artificial intelligence, bias and clinical safety [2018] https://qualitysafety.bmj.com/content/28/3/231
 
 # MEDICAL IMAGING
 
