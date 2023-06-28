@@ -24,12 +24,17 @@ A place to store relevant research papers and resources
 
 - Reliable Off-Policy Learning for Dosage Combinations [2023] https://arxiv.org/abs/2305.19742
 - Universal Off-Policy Evaluation [2021] https://arxiv.org/abs/2104.12820
+- Off-Policy Deep Reinforcement Learning without Exploration [2018] https://arxiv.org/abs/1812.02900
 - HCOPE [2015] https://ojs.aaai.org/index.php/AAAI/article/view/9541
 
 # SIMULATORS
 
 - The Health Gym: synthetic health-related datasets for the development of reinforcement learning algorithms [2022] https://www.nature.com/articles/s41597-022-01784-7
 - Towards Effective Patient Simulators [2021] https://www.frontiersin.org/articles/10.3389/frai.2021.798659/full
+
+# LIBRARIES
+
+- d3rlpy: An Offline Deep Reinforcement Learning Library [2021] https://arxiv.org/abs/2111.03788
 
 # SAFETY
 
