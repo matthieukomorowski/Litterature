@@ -27,6 +27,12 @@ A place to store relevant research papers and resources
 - Off-Policy Deep Reinforcement Learning without Exploration [2018] https://arxiv.org/abs/1812.02900
 - HCOPE [2015] https://ojs.aaai.org/index.php/AAAI/article/view/9541
 
+## XRL
+
+- Explainable Reinforcement Learning via Model Transforms [2022] https://arxiv.org/abs/2209.12006
+- XRL review [2020] https://towardsdatascience.com/xrl-explainable-reinforcement-learning-4cd065cdec9a
+- Explainable Reinforcement Learning via Reward Decomposition [2019] https://finale.seas.harvard.edu/publications/explainable-reinforcement-learning-reward-decomposition
+
 # SIMULATORS
 
 - The Health Gym: synthetic health-related datasets for the development of reinforcement learning algorithms [2022] https://www.nature.com/articles/s41597-022-01784-7
