@@ -36,8 +36,9 @@ A place to store relevant research papers and resources
 # SIMULATORS
 
 - The Health Gym: synthetic health-related datasets for the development of reinforcement learning algorithms [2022] https://www.nature.com/articles/s41597-022-01784-7
+- [Synthea] Simulation of a machine learning enabled learning health system for risk prediction using synthetic patient data [2022] https://www.nature.com/articles/s41598-022-23011-4
 - Towards Effective Patient Simulators [2021] https://www.frontiersin.org/articles/10.3389/frai.2021.798659/full
-- Sepsis World Model: A MIMIC-based OpenAI Gym "World Model" Simulator for Sepsis Treatment [2019] https://arxiv.org/abs/1912.07127
+- [GYMIC] Sepsis World Model: A MIMIC-based OpenAI Gym "World Model" Simulator for Sepsis Treatment [2019] https://arxiv.org/abs/1912.07127
 - World Models [2018] https://arxiv.org/abs/1803.10122
 
 # LIBRARIES
