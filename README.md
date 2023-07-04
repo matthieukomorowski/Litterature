@@ -42,6 +42,10 @@ A place to store relevant research papers and resources
 - [GYMIC] Sepsis World Model: A MIMIC-based OpenAI Gym "World Model" Simulator for Sepsis Treatment [2019] https://arxiv.org/abs/1912.07127
 - World Models [2018] https://arxiv.org/abs/1803.10122
 
+# Benchmark datasets
+
+- HiRID-ICU-Benchmark -- A Comprehensive Machine Learning Benchmark on High-resolution ICU Data [2021] https://arxiv.org/abs/2111.08536
+
 # LIBRARIES
 
 - d3rlpy: An Offline Deep Reinforcement Learning Library [2021] https://arxiv.org/abs/2111.03788
