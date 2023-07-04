@@ -19,6 +19,7 @@ A place to store relevant research papers and resources
 ## State representation
 
 - Learning Markov State Abstractions for Deep Reinforcement Learning [2021] https://arxiv.org/abs/2106.04379
+- SOM-VAE: Interpretable Discrete Representation Learning on Time Series [2019] https://arxiv.org/abs/1806.02199
 
 ## OPE
 
