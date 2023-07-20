@@ -72,16 +72,25 @@ A place to store relevant research papers and resources
 
 # RL in SEPSIS
 
+- Towards more efficient and robust evaluation of sepsis treatment with deep reinforcement learning [2023] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9979564/
 - A value-based deep reinforcement learning model with human expertise in optimal treatment of sepsis [2023] https://www.nature.com/articles/s41746-023-00755-5
+- The treatment of sepsis: an episodic memory-assisted deep reinforcement learning approach [2023] https://link.springer.com/article/10.1007/s10489-022-04099-7
 - Reinforcement Learning For Sepsis Treatment: A Continuous Action Space Solution [2022] https://proceedings.mlr.press/v182/huang22a.html
+- Establishment and Implementation of Potential Fluid Therapy Balance Strategies for ICU Sepsis Patients Based on Reinforcement Learning [2022] https://pubmed.ncbi.nlm.nih.gov/35492326/
 - Unifying cardiovascular modelling with deep reinforcement learning for uncertainty aware control of sepsis treatment [2022] https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000012
+- Safe RL for sepsis treatment [2022] http://d-scholarship.pitt.edu/42914/
+- Medical Dead-ends and Learning to Identify High-Risk States and Treatments [2021] https://proceedings.neurips.cc/paper/2021/hash/26405399c51ad7b13b504e74eb7c696c-Abstract.html
+- Combining Model-Based and Model-Free Reinforcement Learning Policies for More Efficient Sepsis Treatment [2021] https://www.springerprofessional.de/en/combining-model-based-and-model-free-reinforcement-learning-poli/19877428
 - Transatlantic transferability of a new reinforcement learning model for optimizing haemodynamic treatment for critically ill patients with sepsis [2021] https://pubmed.ncbi.nlm.nih.gov/33581824/
 - Safety-driven design of machine learning for sepsis treatment [2021] https://www.sciencedirect.com/science/article/pii/S1532046421000915 
 - Individualized fluid administration for critically ill patients with sepsis with an interpretable dynamic treatment regimen model [2020] https://www.nature.com/articles/s41598-020-74906-z
+- Combining Reinforcement Learning with Supervised Learning for Sepsis Treatment [2020] https://dl.acm.org/doi/10.1145/3426020.3426077
 - Deep Inverse Reinforcement Learning for Sepsis Treatment [2019] https://www.computer.org/csdl/proceedings-article/ichi/2019/08904645/1f8N9kBhTgY
+- Improving Sepsis Treatment Strategies by Combining Deep and Kernel-Based Reinforcement Learning [2019] https://arxiv.org/abs/1901.04670
 
-# RL in the ICU
+# RL in the ICU outside of sepsis
 
+- Development of a Reinforcement Learning Algorithm to Optimize Corticosteroid Therapy in Critically Ill Patients with Sepsis [2023] https://www.mdpi.com/2077-0383/12/4/1513
 - Reinforcement learning for clinical decision support in critical care: comprehensive review [2020] https://www.jmir.org/2020/7/e18477/
 
 
