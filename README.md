@@ -91,7 +91,9 @@ A place to store relevant research papers and resources
 # RL in the ICU outside of sepsis
 
 - Development of a Reinforcement Learning Algorithm to Optimize Corticosteroid Therapy in Critically Ill Patients with Sepsis [2023] https://www.mdpi.com/2077-0383/12/4/1513
+- Development and validation of a reinforcement learning algorithm to dynamically optimize mechanical ventilation in critical care [2021] https://pubmed.ncbi.nlm.nih.gov/33608661/
 - Reinforcement learning for clinical decision support in critical care: comprehensive review [2020] https://www.jmir.org/2020/7/e18477/
+- A Reinforcement Learning Approach to Weaning of Mechanical Ventilation in Intensive Care Units [2017] https://arxiv.org/abs/1704.06300
 
 
 
