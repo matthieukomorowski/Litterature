@@ -70,3 +70,19 @@ A place to store relevant research papers and resources
 
 - Regulatory Horizons Council: The regulation of Artificial Intelligence as a Medical Device [2022] https://www.gov.uk/government/publications/regulatory-horizons-council-the-regulation-of-artificial-intelligence-as-a-medical-device
 
+# RL in SEPSIS
+
+- A value-based deep reinforcement learning model with human expertise in optimal treatment of sepsis [2023] https://www.nature.com/articles/s41746-023-00755-5
+- Reinforcement Learning For Sepsis Treatment: A Continuous Action Space Solution [2022] https://proceedings.mlr.press/v182/huang22a.html
+- Unifying cardiovascular modelling with deep reinforcement learning for uncertainty aware control of sepsis treatment [2022] https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000012
+- Transatlantic transferability of a new reinforcement learning model for optimizing haemodynamic treatment for critically ill patients with sepsis [2021] https://pubmed.ncbi.nlm.nih.gov/33581824/
+- Safety-driven design of machine learning for sepsis treatment [2021] https://www.sciencedirect.com/science/article/pii/S1532046421000915 
+- Individualized fluid administration for critically ill patients with sepsis with an interpretable dynamic treatment regimen model [2020] https://www.nature.com/articles/s41598-020-74906-z
+- Deep Inverse Reinforcement Learning for Sepsis Treatment [2019] https://www.computer.org/csdl/proceedings-article/ichi/2019/08904645/1f8N9kBhTgY
+
+# RL in the ICU
+
+- Reinforcement learning for clinical decision support in critical care: comprehensive review [2020] https://www.jmir.org/2020/7/e18477/
+
+
+
