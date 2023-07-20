@@ -75,10 +75,18 @@ A place to store relevant research papers and resources
 - Towards more efficient and robust evaluation of sepsis treatment with deep reinforcement learning [2023] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9979564/
 - A value-based deep reinforcement learning model with human expertise in optimal treatment of sepsis [2023] https://www.nature.com/articles/s41746-023-00755-5
 - The treatment of sepsis: an episodic memory-assisted deep reinforcement learning approach [2023] https://link.springer.com/article/10.1007/s10489-022-04099-7
+- Delphic Offline Reinforcement Learning under Nonidentifiable Hidden Confounding [2023] https://arxiv.org/abs/2306.01157
+- Uniformly Conservative Exploration in Reinforcement Learning [2023] https://proceedings.mlr.press/v206/xu23j.html
+- Deep Offline Reinforcement Learning for Real-world Treatment Optimization Applications [2023] https://arxiv.org/abs/2302.07549
 - Reinforcement Learning For Sepsis Treatment: A Continuous Action Space Solution [2022] https://proceedings.mlr.press/v182/huang22a.html
 - Establishment and Implementation of Potential Fluid Therapy Balance Strategies for ICU Sepsis Patients Based on Reinforcement Learning [2022] https://pubmed.ncbi.nlm.nih.gov/35492326/
+- A Conservative Q-Learning approach for handling distribution shift in sepsis treatment strategies [2022] https://arxiv.org/abs/2203.13884
+- Leveraging Factored Action Spaces for Efficient Offline Reinforcement Learning in Healthcare [2022] https://proceedings.neurips.cc/paper_files/paper/2022/hash/dda7f9378a210c25e470e19304cce85d-Abstract-Conference.html
 - Unifying cardiovascular modelling with deep reinforcement learning for uncertainty aware control of sepsis treatment [2022] https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000012
+- Superhuman performance on sepsis MIMIC-III data by distributional reinforcement learning [2022] https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275358
+- Establishment and Implementation of Potential Fluid Therapy Balance Strategies for ICU Sepsis Patients Based on Reinforcement Learning [2022] https://www.frontiersin.org/articles/10.3389/fmed.2022.766447/full
 - Safe RL for sepsis treatment [2022] http://d-scholarship.pitt.edu/42914/
+- Learning Optimal Treatment Strategies for Sepsis Using Offline Reinforcement Learning in Continuous Space [2022] https://link.springer.com/chapter/10.1007/978-3-031-20627-6_11
 - Medical Dead-ends and Learning to Identify High-Risk States and Treatments [2021] https://proceedings.neurips.cc/paper/2021/hash/26405399c51ad7b13b504e74eb7c696c-Abstract.html
 - Combining Model-Based and Model-Free Reinforcement Learning Policies for More Efficient Sepsis Treatment [2021] https://www.springerprofessional.de/en/combining-model-based-and-model-free-reinforcement-learning-poli/19877428
 - Transatlantic transferability of a new reinforcement learning model for optimizing haemodynamic treatment for critically ill patients with sepsis [2021] https://pubmed.ncbi.nlm.nih.gov/33581824/
@@ -91,6 +99,7 @@ A place to store relevant research papers and resources
 # RL in the ICU outside of sepsis
 
 - Development of a Reinforcement Learning Algorithm to Optimize Corticosteroid Therapy in Critically Ill Patients with Sepsis [2023] https://www.mdpi.com/2077-0383/12/4/1513
+- Clinical Knowledge-Guided Deep Reinforcement Learning for Sepsis Antibiotic Dosing Recommendations [2023] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4481970
 - Development and validation of a reinforcement learning algorithm to dynamically optimize mechanical ventilation in critical care [2021] https://pubmed.ncbi.nlm.nih.gov/33608661/
 - Reinforcement learning for clinical decision support in critical care: comprehensive review [2020] https://www.jmir.org/2020/7/e18477/
 - A Reinforcement Learning Approach to Weaning of Mechanical Ventilation in Intensive Care Units [2017] https://arxiv.org/abs/1704.06300
