@@ -78,10 +78,14 @@ A place to store relevant research papers and resources
 - Delphic Offline Reinforcement Learning under Nonidentifiable Hidden Confounding [2023] https://arxiv.org/abs/2306.01157
 - Uniformly Conservative Exploration in Reinforcement Learning [2023] https://proceedings.mlr.press/v206/xu23j.html
 - Deep Offline Reinforcement Learning for Real-world Treatment Optimization Applications [2023] https://arxiv.org/abs/2302.07549
+- A dosing strategy model of deep deterministic policy gradient algorithm for sepsis patients [2023] https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02175-7
+- Adversarial reinforcement learning for dynamic treatment regimes [2023] https://www.sciencedirect.com/science/article/pii/S1532046422002490
 - Reinforcement Learning For Sepsis Treatment: A Continuous Action Space Solution [2022] https://proceedings.mlr.press/v182/huang22a.html
 - Establishment and Implementation of Potential Fluid Therapy Balance Strategies for ICU Sepsis Patients Based on Reinforcement Learning [2022] https://pubmed.ncbi.nlm.nih.gov/35492326/
 - A Conservative Q-Learning approach for handling distribution shift in sepsis treatment strategies [2022] https://arxiv.org/abs/2203.13884
 - Leveraging Factored Action Spaces for Efficient Offline Reinforcement Learning in Healthcare [2022] https://proceedings.neurips.cc/paper_files/paper/2022/hash/dda7f9378a210c25e470e19304cce85d-Abstract-Conference.html
+- Data-Efficient Pipeline for Offline Reinforcement Learning with Limited Data [2022] https://proceedings.neurips.cc/paper_files/paper/2022/hash/5ee7ed60a7e8169012224dec5fe0d27f-Abstract-Conference.html
+- Federated Offline Reinforcement Learning [2022] https://arxiv.org/abs/2206.05581
 - Unifying cardiovascular modelling with deep reinforcement learning for uncertainty aware control of sepsis treatment [2022] https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000012
 - Superhuman performance on sepsis MIMIC-III data by distributional reinforcement learning [2022] https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275358
 - Establishment and Implementation of Potential Fluid Therapy Balance Strategies for ICU Sepsis Patients Based on Reinforcement Learning [2022] https://www.frontiersin.org/articles/10.3389/fmed.2022.766447/full
