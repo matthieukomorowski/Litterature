@@ -10,6 +10,10 @@ A place to store relevant research papers and resources
 
 # RL
 
+## Courses
+
+-- DeepMind x UCL RL Lecture Series [2021] https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm
+
 ## Textbooks
 
 - Sutton & Barto 2nd Ed [2018] http://incompleteideas.net/book/the-book-2nd.html
