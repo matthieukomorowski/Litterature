@@ -12,7 +12,7 @@ A place to store relevant research papers and resources
 
 ## Courses
 
--- DeepMind x UCL RL Lecture Series [2021] https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm
+- DeepMind x UCL RL Lecture Series [2021] https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm
 
 ## Textbooks
 
