@@ -52,6 +52,11 @@ A place to store relevant research papers and resources
 - [GYMIC] Sepsis World Model: A MIMIC-based OpenAI Gym "World Model" Simulator for Sepsis Treatment [2019] https://arxiv.org/abs/1912.07127 + https://github.com/akiani/rlsepsis234
 - World Models [2018] https://arxiv.org/abs/1803.10122
 
+# FOUNDATION MODELS
+
+- Towards Generalist Biomedical AI [2023] https://arxiv.org/abs/2307.14334
+- On the Opportunities and Risks of Foundation Models [2021] https://arxiv.org/abs/2108.07258
+
 # BENCHMARK DATASETS
 
 - HiRID-ICU-Benchmark -- A Comprehensive Machine Learning Benchmark on High-resolution ICU Data [2021] https://arxiv.org/abs/2111.08536
