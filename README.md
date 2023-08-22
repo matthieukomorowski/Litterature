@@ -36,10 +36,12 @@ A place to store relevant research papers and resources
 - Off-Policy Deep Reinforcement Learning without Exploration [2018] https://arxiv.org/abs/1812.02900
 - HCOPE [2015] https://ojs.aaai.org/index.php/AAAI/article/view/9541
 
-## XRL
+## XRL (and XAI in general)
 
 - Interpretable ML textbook [update 2023] https://christophm.github.io/interpretable-ml-book/
 - Explainable Reinforcement Learning via Model Transforms [2022] https://arxiv.org/abs/2209.12006
+- Counterfactual Explanations and Algorithmic Recourses for Machine Learning: A Review [2022] https://arxiv.org/abs/2010.10596
+- Policy Optimization with Sparse Global Contrastive Explanations [2022] https://arxiv.org/abs/2207.06269
 - Counterfactuals with Reinforcement Learning [2022] https://docs.seldon.io/projects/alibi/en/latest/methods/CFRL.html
 - Model-agnostic and Scalable Counterfactual Explanations via Reinforcement Learning [2021] https://arxiv.org/abs/2106.02597
 - XRL review [2020] https://towardsdatascience.com/xrl-explainable-reinforcement-learning-4cd065cdec9a
