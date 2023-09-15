@@ -5,7 +5,8 @@ A place to store relevant research papers and resources
 
 # GENERIC AI/ML IN HEALTHCARE
 
-- All models are local: time to replace external validation with recurrent local validation [2023] https://arxiv.org/abs/2305.03219 
+- All models are local: time to replace external validation with recurrent local validation [2023] https://arxiv.org/abs/2305.03219
+- Operationalizing Machine Learning: An Interview Study [2022] https://arxiv.org/abs/2209.09125
 - Do no harm: a roadmap for responsible machine learning for health care [2019] https://www.nature.com/articles/s41591-019-0548-6#Sec9
 
 # RL
@@ -82,7 +83,10 @@ A place to store relevant research papers and resources
 
 # REGULATIONS
 
+- Crafting an intended purpose in the context of Software as a Medical Device (SaMD) [2023] https://www.gov.uk/government/publications/crafting-an-intended-purpose-in-the-context-of-software-as-a-medical-device-samd
 - Regulatory Horizons Council: The regulation of Artificial Intelligence as a Medical Device [2022] https://www.gov.uk/government/publications/regulatory-horizons-council-the-regulation-of-artificial-intelligence-as-a-medical-device
+- (Goldacre review) Better, broader, safer: using health data for research and analysis [2022] https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis
+- Guidance: A guide to good practice for digital and data-driven health technologies [2021] https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology/initial-code-of-conduct-for-data-driven-health-and-care-technology#clinical-safety
 
 # RL in SEPSIS
 
