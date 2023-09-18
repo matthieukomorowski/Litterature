@@ -82,11 +82,12 @@ A place to store relevant research papers and resources
 
 - CXR Foundation [2022] https://ai.googleblog.com/2022/07/simplified-transfer-learning-for-chest.html
 
-# REGULATIONS
+# REGULATIONS / GUIDELINES
 
 - Crafting an intended purpose in the context of Software as a Medical Device (SaMD) [2023] https://www.gov.uk/government/publications/crafting-an-intended-purpose-in-the-context-of-software-as-a-medical-device-samd
 - Regulatory Horizons Council: The regulation of Artificial Intelligence as a Medical Device [2022] https://www.gov.uk/government/publications/regulatory-horizons-council-the-regulation-of-artificial-intelligence-as-a-medical-device
 - (Goldacre review) Better, broader, safer: using health data for research and analysis [2022] https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis
+- FDA/Health Canada/MHRA Good Machine Learning Practice for Medical Device Development: Guiding Principles [2021] https://www.gov.uk/government/publications/good-machine-learning-practice-for-medical-device-development-guiding-principles
 - Guidance: A guide to good practice for digital and data-driven health technologies [2021] https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology/initial-code-of-conduct-for-data-driven-health-and-care-technology#clinical-safety
 
 # RL in SEPSIS
