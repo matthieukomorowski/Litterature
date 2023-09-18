@@ -23,6 +23,7 @@ A place to store relevant research papers and resources
 
 - Learning-to-defer for sequential medical decision-making under uncertainty [2022] https://arxiv.org/abs/2109.06312
 - Provable Benefits of Actor-Critic Methods for Offline Reinforcement Learning [2021] https://arxiv.org/abs/2108.08812
+- Overcoming Model Bias for Robust Offline Deep Reinforcement Learning [2021] https://arxiv.org/abs/2008.05533
 - Deep reinforcement learning from human preferences [2017] https://arxiv.org/abs/1706.03741
 - High Confidence Policy Improvement [2015] https://proceedings.mlr.press/v37/thomas15.html 
 
@@ -120,6 +121,7 @@ A place to store relevant research papers and resources
 
 # RL in the ICU outside of sepsis
 
+- Optimized glycemic control of type 2 diabetes with reinforcement learning: a proof-of-concept trial [2023] https://www.nature.com/articles/s41591-023-02552-9 
 - Development of a Reinforcement Learning Algorithm to Optimize Corticosteroid Therapy in Critically Ill Patients with Sepsis [2023] https://www.mdpi.com/2077-0383/12/4/1513
 - Clinical Knowledge-Guided Deep Reinforcement Learning for Sepsis Antibiotic Dosing Recommendations [2023] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4481970
 - Development and validation of a reinforcement learning algorithm to dynamically optimize mechanical ventilation in critical care [2021] https://pubmed.ncbi.nlm.nih.gov/33608661/
