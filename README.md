@@ -51,46 +51,6 @@ A place to store relevant research papers and resources
 - XRL review [2020] https://towardsdatascience.com/xrl-explainable-reinforcement-learning-4cd065cdec9a
 - Explainable Reinforcement Learning via Reward Decomposition [2019] https://finale.seas.harvard.edu/publications/explainable-reinforcement-learning-reward-decomposition
 
-# SIMULATORS
-
-- The Health Gym: synthetic health-related datasets for the development of reinforcement learning algorithms [2022] https://www.nature.com/articles/s41597-022-01784-7
-- [Synthea] Simulation of a machine learning enabled learning health system for risk prediction using synthetic patient data [2022] https://www.nature.com/articles/s41598-022-23011-4
-- Towards Effective Patient Simulators [2021] https://www.frontiersin.org/articles/10.3389/frai.2021.798659/full
-- [GYMIC] Sepsis World Model: A MIMIC-based OpenAI Gym "World Model" Simulator for Sepsis Treatment [2019] https://arxiv.org/abs/1912.07127 + https://github.com/akiani/rlsepsis234
-- World Models [2018] https://arxiv.org/abs/1803.10122
-
-# FOUNDATION MODELS
-
-- Towards Generalist Biomedical AI [2023] https://arxiv.org/abs/2307.14334
-- On the Opportunities and Risks of Foundation Models [2021] https://arxiv.org/abs/2108.07258
-
-# BENCHMARK DATASETS
-
-- HiRID-ICU-Benchmark -- A Comprehensive Machine Learning Benchmark on High-resolution ICU Data [2021] https://arxiv.org/abs/2111.08536
-
-# LIBRARIES
-
-- ID3QNE: A value-based deep reinforcement learning model with human expertise in optimal treatment of sepsis [2023] https://github.com/CaryLi666/ID3QNE-algorithm
-- d3rlpy: An Offline Deep Reinforcement Learning Library [2021] https://arxiv.org/abs/2111.03788
-- GYMIC: An OpenAI Gym Environment for Simulating Sepsis Treatment for ICU Patients [2019] https://github.com/akiani/gym-sepsis
-
-# SAFETY
-
-- Preventing undesirable behavior of intelligent machines [2019] https://www.science.org/doi/10.1126/science.aag3311
-- Artificial intelligence, bias and clinical safety [2018] https://qualitysafety.bmj.com/content/28/3/231
-
-# MEDICAL IMAGING
-
-- CXR Foundation [2022] https://ai.googleblog.com/2022/07/simplified-transfer-learning-for-chest.html
-
-# REGULATIONS / GUIDELINES
-
-- Crafting an intended purpose in the context of Software as a Medical Device (SaMD) [2023] https://www.gov.uk/government/publications/crafting-an-intended-purpose-in-the-context-of-software-as-a-medical-device-samd
-- Regulatory Horizons Council: The regulation of Artificial Intelligence as a Medical Device [2022] https://www.gov.uk/government/publications/regulatory-horizons-council-the-regulation-of-artificial-intelligence-as-a-medical-device
-- (Goldacre review) Better, broader, safer: using health data for research and analysis [2022] https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis
-- FDA/Health Canada/MHRA Good Machine Learning Practice for Medical Device Development: Guiding Principles [2021] https://www.gov.uk/government/publications/good-machine-learning-practice-for-medical-device-development-guiding-principles
-- Guidance: A guide to good practice for digital and data-driven health technologies [2021] https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology/initial-code-of-conduct-for-data-driven-health-and-care-technology#clinical-safety
-
 # RL in SEPSIS
 
 - Towards more efficient and robust evaluation of sepsis treatment with deep reinforcement learning [2023] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9979564/
@@ -130,5 +90,45 @@ A place to store relevant research papers and resources
 - Reinforcement learning for clinical decision support in critical care: comprehensive review [2020] https://www.jmir.org/2020/7/e18477/
 - A Reinforcement Learning Approach to Weaning of Mechanical Ventilation in Intensive Care Units [2017] https://arxiv.org/abs/1704.06300
 
+
+# SIMULATORS
+
+- The Health Gym: synthetic health-related datasets for the development of reinforcement learning algorithms [2022] https://www.nature.com/articles/s41597-022-01784-7
+- [Synthea] Simulation of a machine learning enabled learning health system for risk prediction using synthetic patient data [2022] https://www.nature.com/articles/s41598-022-23011-4
+- Towards Effective Patient Simulators [2021] https://www.frontiersin.org/articles/10.3389/frai.2021.798659/full
+- [GYMIC] Sepsis World Model: A MIMIC-based OpenAI Gym "World Model" Simulator for Sepsis Treatment [2019] https://arxiv.org/abs/1912.07127 + https://github.com/akiani/rlsepsis234
+- World Models [2018] https://arxiv.org/abs/1803.10122
+
+# FOUNDATION MODELS
+
+- Towards Generalist Biomedical AI [2023] https://arxiv.org/abs/2307.14334
+- On the Opportunities and Risks of Foundation Models [2021] https://arxiv.org/abs/2108.07258
+
+# BENCHMARK DATASETS
+
+- HiRID-ICU-Benchmark -- A Comprehensive Machine Learning Benchmark on High-resolution ICU Data [2021] https://arxiv.org/abs/2111.08536
+
+# LIBRARIES
+
+- ID3QNE: A value-based deep reinforcement learning model with human expertise in optimal treatment of sepsis [2023] https://github.com/CaryLi666/ID3QNE-algorithm
+- d3rlpy: An Offline Deep Reinforcement Learning Library [2021] https://arxiv.org/abs/2111.03788
+- GYMIC: An OpenAI Gym Environment for Simulating Sepsis Treatment for ICU Patients [2019] https://github.com/akiani/gym-sepsis
+
+# SAFETY
+
+- Preventing undesirable behavior of intelligent machines [2019] https://www.science.org/doi/10.1126/science.aag3311
+- Artificial intelligence, bias and clinical safety [2018] https://qualitysafety.bmj.com/content/28/3/231
+
+# MEDICAL IMAGING
+
+- CXR Foundation [2022] https://ai.googleblog.com/2022/07/simplified-transfer-learning-for-chest.html
+
+# REGULATIONS / GUIDELINES
+
+- Crafting an intended purpose in the context of Software as a Medical Device (SaMD) [2023] https://www.gov.uk/government/publications/crafting-an-intended-purpose-in-the-context-of-software-as-a-medical-device-samd
+- Regulatory Horizons Council: The regulation of Artificial Intelligence as a Medical Device [2022] https://www.gov.uk/government/publications/regulatory-horizons-council-the-regulation-of-artificial-intelligence-as-a-medical-device
+- (Goldacre review) Better, broader, safer: using health data for research and analysis [2022] https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis
+- FDA/Health Canada/MHRA Good Machine Learning Practice for Medical Device Development: Guiding Principles [2021] https://www.gov.uk/government/publications/good-machine-learning-practice-for-medical-device-development-guiding-principles
+- Guidance: A guide to good practice for digital and data-driven health technologies [2021] https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology/initial-code-of-conduct-for-data-driven-health-and-care-technology#clinical-safety
 
 
