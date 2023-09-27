@@ -25,6 +25,7 @@ A place to store relevant research papers and resources
 - Provable Benefits of Actor-Critic Methods for Offline Reinforcement Learning [2021] https://arxiv.org/abs/2108.08812
 - Overcoming Model Bias for Robust Offline Deep Reinforcement Learning [2021] https://arxiv.org/abs/2008.05533
 - The Difficulty of Passive Learning in Deep Reinforcement Learning [2021] https://arxiv.org/abs/2110.14020
+- Is Deep Reinforcement Learning Ready for Practical Applications in Healthcare? A Sensitivity Analysis of Duel-DDQN for Hemodynamic Management in Sepsis Patients [2021] https://pubmed.ncbi.nlm.nih.gov/33936452/
 - Deep reinforcement learning from human preferences [2017] https://arxiv.org/abs/1706.03741
 - High Confidence Policy Improvement [2015] https://proceedings.mlr.press/v37/thomas15.html 
 
