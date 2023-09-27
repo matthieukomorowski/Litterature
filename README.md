@@ -24,6 +24,7 @@ A place to store relevant research papers and resources
 - Learning-to-defer for sequential medical decision-making under uncertainty [2022] https://arxiv.org/abs/2109.06312
 - Provable Benefits of Actor-Critic Methods for Offline Reinforcement Learning [2021] https://arxiv.org/abs/2108.08812
 - Overcoming Model Bias for Robust Offline Deep Reinforcement Learning [2021] https://arxiv.org/abs/2008.05533
+- The Difficulty of Passive Learning in Deep Reinforcement Learning [2021] https://arxiv.org/abs/2110.14020
 - Deep reinforcement learning from human preferences [2017] https://arxiv.org/abs/1706.03741
 - High Confidence Policy Improvement [2015] https://proceedings.mlr.press/v37/thomas15.html 
 
