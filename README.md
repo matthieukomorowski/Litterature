@@ -22,6 +22,7 @@ A place to store relevant research papers and resources
 ## Learning optimal policies
 
 - Learning-to-defer for sequential medical decision-making under uncertainty [2022] https://arxiv.org/abs/2109.06312
+- Deconfounding Actor-Critic Network with Policy Adaptation for Dynamic Treatment Regimes [2022] https://arxiv.org/abs/2205.09852
 - Provable Benefits of Actor-Critic Methods for Offline Reinforcement Learning [2021] https://arxiv.org/abs/2108.08812
 - Overcoming Model Bias for Robust Offline Deep Reinforcement Learning [2021] https://arxiv.org/abs/2008.05533
 - The Difficulty of Passive Learning in Deep Reinforcement Learning [2021] https://arxiv.org/abs/2110.14020
