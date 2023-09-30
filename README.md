@@ -45,6 +45,7 @@ A place to store relevant research papers and resources
 ## XRL (and XAI in general)
 
 - Interpretable ML textbook [update 2023] https://christophm.github.io/interpretable-ml-book/
+- Multiple stakeholders drive diverse interpretability requirements for machine learning in healthcare [2023] https://www.nature.com/articles/s42256-023-00698-2
 - Explainable Reinforcement Learning via Model Transforms [2022] https://arxiv.org/abs/2209.12006
 - Counterfactual Explanations and Algorithmic Recourses for Machine Learning: A Review [2022] https://arxiv.org/abs/2010.10596
 - Policy Optimization with Sparse Global Contrastive Explanations [2022] https://arxiv.org/abs/2207.06269
