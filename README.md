@@ -54,6 +54,10 @@ A place to store relevant research papers and resources
 - XRL review [2020] https://towardsdatascience.com/xrl-explainable-reinforcement-learning-4cd065cdec9a
 - Explainable Reinforcement Learning via Reward Decomposition [2019] https://finale.seas.harvard.edu/publications/explainable-reinforcement-learning-reward-decomposition
 
+# Federated RL
+
+- Federated Ensemble-Directed Offline Reinforcement Learning [2023] https://arxiv.org/abs/2305.03097
+
 # RL in SEPSIS
 
 - Towards more efficient and robust evaluation of sepsis treatment with deep reinforcement learning [2023] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9979564/
