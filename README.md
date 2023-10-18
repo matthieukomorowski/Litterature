@@ -7,6 +7,7 @@ A place to store relevant research papers and resources
 
 - All models are local: time to replace external validation with recurrent local validation [2023] https://arxiv.org/abs/2305.03219
 - Operationalizing Machine Learning: An Interview Study [2022] https://arxiv.org/abs/2209.09125
+- Implementing machine learning in medicine [2021] https://www.cmaj.ca/content/193/34/E1351
 - Do no harm: a roadmap for responsible machine learning for health care [2019] https://www.nature.com/articles/s41591-019-0548-6#Sec9
 
 # RL
