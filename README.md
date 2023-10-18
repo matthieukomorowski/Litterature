@@ -53,6 +53,7 @@ A place to store relevant research papers and resources
 - Model-agnostic and Scalable Counterfactual Explanations via Reinforcement Learning [2021] https://arxiv.org/abs/2106.02597
 - XRL review [2020] https://towardsdatascience.com/xrl-explainable-reinforcement-learning-4cd065cdec9a
 - Explainable Reinforcement Learning via Reward Decomposition [2019] https://finale.seas.harvard.edu/publications/explainable-reinforcement-learning-reward-decomposition
+- Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead [2019] https://www.nature.com/articles/s42256-019-0048-x
 
 # Federated RL
 
