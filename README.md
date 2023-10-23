@@ -59,7 +59,7 @@ A place to store relevant research papers and resources
 # Federated RL
 
 - Federated Ensemble-Directed Offline Reinforcement Learning [2023] https://arxiv.org/abs/2305.03097
-- Federated Reinforcement Learning with Environment Heterogeneity [2022] https://proceedings.mlr.press/v151/jin22a.html
+- Federated Reinforcement Learning with Environment Heterogeneity [2022] https://proceedings.mlr.press/v151/jin22a.html - https://github.com/pengyang7881187/FedRL/tree/main
 
 # RL in SEPSIS
 
