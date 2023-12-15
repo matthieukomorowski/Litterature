@@ -64,7 +64,7 @@ A place to store relevant research papers and resources
 # RL in SEPSIS
 
 - Towards more efficient and robust evaluation of sepsis treatment with deep reinforcement learning [2023] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9979564/
-- A value-based deep reinforcement learning model with human expertise in optimal treatment of sepsis [2023] https://www.nature.com/articles/s41746-023-00755-5
+- A value-based deep reinforcement learning model with human expertise in optimal treatment of sepsis [2023] https://www.nature.com/articles/s41746-023-00755-5 + https://github.com/CaryLi666/ID3QNE-algorithm
 - The treatment of sepsis: an episodic memory-assisted deep reinforcement learning approach [2023] https://link.springer.com/article/10.1007/s10489-022-04099-7
 - Delphic Offline Reinforcement Learning under Nonidentifiable Hidden Confounding [2023] https://arxiv.org/abs/2306.01157
 - Uniformly Conservative Exploration in Reinforcement Learning [2023] https://proceedings.mlr.press/v206/xu23j.html
