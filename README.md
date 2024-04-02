@@ -72,6 +72,7 @@ A place to store relevant research papers and resources
 - A dosing strategy model of deep deterministic policy gradient algorithm for sepsis patients [2023] https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02175-7
 - Adversarial reinforcement learning for dynamic treatment regimes [2023] https://www.sciencedirect.com/science/article/pii/S1532046422002490
 - Reinforcement Learning For Sepsis Treatment: A Continuous Action Space Solution [2022] https://proceedings.mlr.press/v182/huang22a.html
+- An interpretable RL framework for pre-deployment modeling in ICU hypotension management [2022] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9671896/
 - Establishment and Implementation of Potential Fluid Therapy Balance Strategies for ICU Sepsis Patients Based on Reinforcement Learning [2022] https://pubmed.ncbi.nlm.nih.gov/35492326/
 - A Conservative Q-Learning approach for handling distribution shift in sepsis treatment strategies [2022] https://arxiv.org/abs/2203.13884
 - Leveraging Factored Action Spaces for Efficient Offline Reinforcement Learning in Healthcare [2022] https://proceedings.neurips.cc/paper_files/paper/2022/hash/dda7f9378a210c25e470e19304cce85d-Abstract-Conference.html
