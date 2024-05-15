@@ -124,7 +124,7 @@ A place to store relevant research papers and resources
 # LIBRARIES
 
 - ID3QNE: A value-based deep reinforcement learning model with human expertise in optimal treatment of sepsis [2023] https://github.com/CaryLi666/ID3QNE-algorithm
-- d3rlpy: An Offline Deep Reinforcement Learning Library [2021] https://arxiv.org/abs/2111.03788
+- d3rlpy: An Offline Deep Reinforcement Learning Library [2021] https://arxiv.org/abs/2111.03788 https://github.com/takuseno/d3rlpy
 - GYMIC: An OpenAI Gym Environment for Simulating Sepsis Treatment for ICU Patients [2019] https://github.com/akiani/gym-sepsis
 
 # SAFETY
