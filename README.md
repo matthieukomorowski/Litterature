@@ -94,6 +94,7 @@ A place to store relevant research papers and resources
 
 # RL in the ICU outside of sepsis
 
+- Personalizing renal replacement therapy initiation in the intensive care unit: a reinforcement learning-based strategy with external validation on the AKIKI randomized controlled trials [2024] https://academic.oup.com/jamia/article/31/5/1074/7624146
 - Optimized glycemic control of type 2 diabetes with reinforcement learning: a proof-of-concept trial [2023] https://www.nature.com/articles/s41591-023-02552-9 
 - Development of a Reinforcement Learning Algorithm to Optimize Corticosteroid Therapy in Critically Ill Patients with Sepsis [2023] https://www.mdpi.com/2077-0383/12/4/1513
 - Clinical Knowledge-Guided Deep Reinforcement Learning for Sepsis Antibiotic Dosing Recommendations [2023] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4481970
