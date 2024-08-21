@@ -107,6 +107,7 @@ A place to store relevant research papers and resources
 
 # SIMULATORS
 
+- ICU-Sepsis: A Benchmark MDP Built from Real Medical Data [2024] https://arxiv.org/abs/2406.05646 
 - The Health Gym: synthetic health-related datasets for the development of reinforcement learning algorithms [2022] https://www.nature.com/articles/s41597-022-01784-7
 - [Synthea] Simulation of a machine learning enabled learning health system for risk prediction using synthetic patient data [2022] https://www.nature.com/articles/s41598-022-23011-4
 - Towards Effective Patient Simulators [2021] https://www.frontiersin.org/articles/10.3389/frai.2021.798659/full
