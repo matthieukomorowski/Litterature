@@ -12,6 +12,8 @@ A place to store relevant research papers and resources
 
 # RL
 
+- A Primer on Reinforcement Learning in Medicine for Clinicians [2024] https://www.nature.com/articles/s41746-024-01316-0
+
 ## Courses
 
 - DeepMind x UCL RL Lecture Series [2021] https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm
@@ -95,7 +97,9 @@ A place to store relevant research papers and resources
 
 # RL in the ICU outside of sepsis
 
+- Personalized decision making for coronary artery disease treatment using offline reinforcement learning [2025] https://www.nature.com/articles/s41746-025-01498-1
 - Personalizing renal replacement therapy initiation in the intensive care unit: a reinforcement learning-based strategy with external validation on the AKIKI randomized controlled trials [2024] https://academic.oup.com/jamia/article/31/5/1074/7624146
+- Optimizing warfarin dosing for patients with atrial fibrillation using machine learning [2024] https://www.nature.com/articles/s41598-024-55110-9
 - Optimized glycemic control of type 2 diabetes with reinforcement learning: a proof-of-concept trial [2023] https://www.nature.com/articles/s41591-023-02552-9 
 - Development of a Reinforcement Learning Algorithm to Optimize Corticosteroid Therapy in Critically Ill Patients with Sepsis [2023] https://www.mdpi.com/2077-0383/12/4/1513
 - Clinical Knowledge-Guided Deep Reinforcement Learning for Sepsis Antibiotic Dosing Recommendations [2023] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4481970
