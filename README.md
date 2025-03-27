@@ -127,6 +127,7 @@ A place to store relevant research papers and resources
 
 # BENCHMARK DATASETS
 
+- Medical Event Data Standard (MEDS): Facilitating Machine Learning for Health [2024] https://github.com/Medical-Event-Data-Standard
 - HiRID-ICU-Benchmark -- A Comprehensive Machine Learning Benchmark on High-resolution ICU Data [2021] https://arxiv.org/abs/2111.08536
 
 # LIBRARIES
