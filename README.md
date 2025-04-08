@@ -100,7 +100,9 @@ A place to store relevant research papers and resources
 
 - Personalized decision making for coronary artery disease treatment using offline reinforcement learning [2025] https://www.nature.com/articles/s41746-025-01498-1
 - Personalizing renal replacement therapy initiation in the intensive care unit: a reinforcement learning-based strategy with external validation on the AKIKI randomized controlled trials [2024] https://academic.oup.com/jamia/article/31/5/1074/7624146
+- Reinforcement learning model for optimizing dexmedetomidine dosing to prevent delirium in critically ill patients [2024] https://www.nature.com/articles/s41746-024-01335-x
 - Optimizing warfarin dosing for patients with atrial fibrillation using machine learning [2024] https://www.nature.com/articles/s41598-024-55110-9
+- Development and validation of a reinforcement learning model for ventilation control during emergence from general anesthesia [2023] https://www.nature.com/articles/s41746-023-00893-w
 - Optimized glycemic control of type 2 diabetes with reinforcement learning: a proof-of-concept trial [2023] https://www.nature.com/articles/s41591-023-02552-9 
 - Development of a Reinforcement Learning Algorithm to Optimize Corticosteroid Therapy in Critically Ill Patients with Sepsis [2023] https://www.mdpi.com/2077-0383/12/4/1513
 - Clinical Knowledge-Guided Deep Reinforcement Learning for Sepsis Antibiotic Dosing Recommendations [2023] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4481970
